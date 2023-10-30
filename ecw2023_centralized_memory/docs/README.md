@@ -193,6 +193,8 @@ if __name__ == "__main__":
     main()
 ```
 
+Here is the result in the debugger :
+
 ```gdb
 gef➤  p RAM_CONTENT
 $1 = 0x55555555b2a0 ""
