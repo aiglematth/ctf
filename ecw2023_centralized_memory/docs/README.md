@@ -1,4 +1,4 @@
-# How to almost pwn
+# How to almost pwn - Centralized Memory
 
 ## Content
 
