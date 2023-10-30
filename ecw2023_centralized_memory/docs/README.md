@@ -1,4 +1,4 @@
-<style>body {text-align: justify}</style>
+<div align="justify">
 
 # How to almost pwn - Centralized Memory
 
@@ -1206,3 +1206,5 @@ It was my first time I really did pwn : too much cool !! I will improve my skill
 - https://github.com/ir0nstone/pwn-notes/tree/master/types/heap
 - https://www.bordergate.co.uk/ubuntu-20-04-heap-exploitation/
 - https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/
+
+</div>
