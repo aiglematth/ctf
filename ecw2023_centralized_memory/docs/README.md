@@ -1,3 +1,5 @@
+<style>body {text-align: justify}</style>
+
 # How to almost pwn - Centralized Memory
 
 ## Content
