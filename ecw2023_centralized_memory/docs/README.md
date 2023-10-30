@@ -1032,6 +1032,8 @@ if __name__ == "__main__":
     main()
 ```
 
+Here is the result of the execution ; as we can see, the `ls` command has been executed successfully.
+
 ```bash
 aigle@aigle:~/c/e/p/centralized_memory:[0]→ ./GS_memory_server_patched                   (Fri Oct 27 17:40:07 CEST 2023)
 [*] Memory server started !
