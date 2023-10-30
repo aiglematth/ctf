@@ -1,11 +1,8 @@
 # How to almost pwn
 
-## Abstract
-
 ## Content
 
 - [How to almost pwn](#how-to-almost-pwn)
-  - [Abstract](#abstract)
   - [Content](#content)
   - [Introduction](#introduction)
   - [Reverse engineer the program](#reverse-engineer-the-program)
