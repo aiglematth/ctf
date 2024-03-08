@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  build-your-own-team:
+    image: anssi/fcsc2019-pwn-build-your-own-team:latest
+    ports:
+      - "4000:4000"
