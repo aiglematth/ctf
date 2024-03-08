@@ -42,6 +42,20 @@ $ checksec byot_patched
 
 Hmmm...all securities are activated.
 
+The very last step before analysis: use the program as normal user. It appears to allow us to create an ecsc team by providing the score in pwn, crypto, web and steg of a named user. I tried some basic techniques ; transforming me into a fuzzer ! No one gave me results.
+
+```bash
+$ ./byot
+-=== Build Your Own Team - ECSC 2019 edition! ===-
+1. Show the ECSC 2019 team
+2. Show player
+3. Select player
+4. Add new player
+5. Remove player
+6. Edit player
+7. Exit
+```
+
 We are now ready to analyze byot binary.
 
 ## Find some bugs
